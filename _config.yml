@@ -1,3 +1,5 @@
-markdown: kramdown
-
+title: УП «Медтехника» г. Витебск
+description: Статический генерируемый сайт-визитка РДТУП «Медтехника» г. Витебск.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-modernist
